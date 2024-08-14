@@ -1,0 +1,17 @@
+.main__content{
+    display: flex;
+    gap: 400px;
+    align-items: center;
+}
+.main__right{
+    width: 500px;
+    height: 600px;
+}
+.main__left{
+    width: 500px;
+    margin-left: 50px;
+}
+.main__left p{
+    line-height: 30px;
+    margin-top: 50px;
+}
